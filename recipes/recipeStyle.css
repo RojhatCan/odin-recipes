@@ -1,0 +1,21 @@
+ul{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1,p{
+    text-align: center;
+    
+}
+
+ol{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.pic{
+    display: block;
+    margin: auto;
+}
