@@ -1,21 +1,31 @@
 ul{
     font-family: 'Courier New', Courier, monospace;
-    text-align: center;
     list-style-position: inside;
+    display: block;
+    padding: 4px;
+    width: fit-content;
+    text-align: center;
+    margin: auto; 
+    border: outset;
+    border-color: black;
 }
 
 h1,p{
     text-align: center;
-    
 }
 
 ol{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     list-style-position: inside;
+    width: fit-content;
+    margin: auto;
+    border: outset;
+    border-color: black;
 }
 
 .pic{
     display: block;
     margin: auto;
 }
+
